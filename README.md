@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 - 💻 Developpeur Full Stack JavaScirpt => React / React Native / Redux / NodeJS / MongoDB
 - 💾 J'ai fait la piscine d'aout 2022 de l'école 42 - @Born2code.
