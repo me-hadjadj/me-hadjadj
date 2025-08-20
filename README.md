@@ -14,6 +14,8 @@ Languages et Tools :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-hadjadj&layout=compact&langs_count=8)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me-hadjadj&show_icons=true&theme=radical)
+
 <!--
 **me-hadjadj/me-hadjadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
